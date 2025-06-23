@@ -19,3 +19,33 @@
 
     --main-font: "Nunito Sans", sans-serif;
 }
+
+.Profile-starter > p{
+    font-size: 1.5rem;
+
+}
+
+.Profile-starter > img{
+    width: 3.5rem;
+}
+
+.Profile{
+    display: flex;
+    
+    
+}
+
+.profile-start{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Profile-starter-icon > svg{
+    width: 3.5rem;
+
+}
+
+.My-profile-father{
+    border: 2px solid hsl(0, 0%, 100%);
+}
