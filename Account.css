@@ -176,7 +176,7 @@
   .left {
     display: flex;
     align-items: center;
-    gap: 1.2rem;
+    gap: 1rem;
   }
   .left img.icon {
     width: 48px;
