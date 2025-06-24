@@ -40,6 +40,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 30px;
 }
 
 .Profile-starter-icon > svg{
@@ -55,3 +56,97 @@
     padding: 10px 10px;
 
 }
+
+.My-Profile-Father2{
+    display: flex;
+    gap: 90px;
+}
+
+.Profile-inputs-main{
+    display: flex;
+    flex-direction: column;
+}
+
+.work{
+    padding: 10px 8px;
+    border-radius: 10px;
+}
+
+.Profile-inputs > p{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.Profile-inputs{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.Profile-inputs-main{
+    display: flex;
+    gap: 15px;
+}
+
+.Profile-inputs-contact{
+    display: flex;
+    gap: 15px;
+    flex-direction: column;
+}
+
+.left-child {
+    display: flex;
+    background-color: #e0e0e0;
+    padding: 10px;
+    border-radius: 5px;
+    width: fit-content;
+    border-radius: 30px;
+    
+  }
+
+  .tab {
+    padding: 10px 20px;
+    gap: 10px;
+    color: black;
+    text-decoration: none;
+    border-radius: 20px;
+    font-size: 1.2rem;
+
+    
+  }
+
+  .tab:hover{
+    background-color: #0078d4;
+    color: white;
+  }
+
+  .tab.active {
+    background-color: #0078d4;
+    color: white;
+  }
+
+  .My-profile-left-child{
+    display: flex;
+    gap: 280px;
+    align-items: center;
+  }
+
+  .left-child2 > svg{
+    background-color: white;
+    height: 40px;
+    width: 40px;    
+  }
+
+  .left-child2-button{
+    background-color: white;
+    padding: 5px 15px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    border: none;
+  }
+
+  .left-child2{
+    display: flex;
+    gap: 50px;
+  }
